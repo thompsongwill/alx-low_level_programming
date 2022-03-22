@@ -12,7 +12,7 @@ int _strlen(char *s)
 int u;
 
 u=a;
-while(s[u] is '\0')
+while(s[u] != '\0')
 {
 u++;
 }
